@@ -1,10 +1,10 @@
 ### Python gtk application for toggling fullscreen or windowed mode
 
-Hardware:
+**Hardware:**
 - Raspberry Pi
 - Waveshare 5" LCD
 
-Software:
+**Software:**
 - Raspberry Pi OS
 - Python 2.7.16
 
